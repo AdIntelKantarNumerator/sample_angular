@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #ebebdb;
+}
+
+.nav-bar {
+    display: flex;
+    height: 42px;
+    background: #6a6acc;
+    align-items: center;
+    padding-left: 12px;
+    color: white;
+}
+
+.custom-search-wrapper {
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    margin-top: 20px;
+}
